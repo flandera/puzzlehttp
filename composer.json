@@ -22,7 +22,7 @@
     "require": {
         "php": ">=5.2.0",
         "ext-json": "*",
-        "puzzlehttp/streams": "~2.1"
+        "flandera/puzzlestreams": "~2.1"
     },
 
     "suggest": {
